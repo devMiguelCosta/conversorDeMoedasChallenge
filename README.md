@@ -1,7 +1,3 @@
-Com certeza, Miguel. Para elevar o nível desse README para um padrão de Desenvolvedor Pleno, vamos focar em uma documentação mais técnica, destacando a arquitetura (separação de responsabilidades), tratamento de erros e instruções claras de infraestrutura.
-
-Aqui está a nova versão:
-
 💱 Currency Converter Service | Java Backend
 Este projeto consiste em um microsserviço de conversão de câmbio em tempo real, desenvolvido para demonstrar boas práticas de consumo de APIs REST, manipulação de dados JSON e arquitetura desacoplada utilizando Java 11+.
 
